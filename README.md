@@ -1,2 +1,2 @@
 # Meme---Dank-or-Not-
-## Project under depelopment:)
+## Project is under depelopment :)
