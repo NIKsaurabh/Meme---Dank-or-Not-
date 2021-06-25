@@ -1,0 +1,28 @@
+1. The 'web_app' folder contains all the file and folders of the 'meme-dank or not' web application.
+
+2. The web app is created using streamlit.
+   Here the predict.py file contains the code to take user inputs and predict value.
+   analysis.py file contains the analysis of meme data.
+   app.py file joins the predict.py and analysis.py streamlit files. So, this is the main file to run.
+   model folder contains the machine learning, CNN and NLP (bert) models for training and one model and 
+   			* word index to get sentiment of the text and
+			* a VGG16 model to extract objects and theor probabilities from the image.
+   module folder contains the python files for data preparation.
+   image folder contains graphs of meme data analysis.
+   
+3. Open terminal in directory containing app.py file and type "streamlit run app.py --server.maxUploadSize=5" to run streamlit app.
+   "--server.maxUploadSize=5" is used to limit the upload size to 5MB.
+   
+4. Copy the localhost url and paste in browser or the default browser will open automatically.
+
+5. In the opened web app there is a sidebar with two options:
+			1. Predict - To take user input and predict dankness of the meme
+			2. Analysis - To see the analysis of meme data
+			
+6. In the 'Predict':
+			* Click on "Browse" button to upload meme image
+			* Enter the time in hour when the user wants to post the meme
+			* If there is any caption for the meme, then enter the caption
+			* Then click on "Predict" to predict the percentage of dankness of the meme
+
+7. In the last the dankness of the meme is printed.   
