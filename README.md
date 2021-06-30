@@ -13,7 +13,7 @@ To collect the data I have used Pushshift API provided by Reddit and in python P
 
 Data sets can be found - https://github.com/NIKsaurabh/Meme-Dank-or-Not-/tree/main/data and https://drive.google.com/drive/folders/1q_hqilR1E59LY2pA0TxjFL4dh53YhXLJ?usp=sharing
 
-Downloaded image data can be found here - https://drive.google.com/drive/folders/1a0u6Z33r49gsrkIr9n-CZUgs30L-Uqjx?usp=sharing
+Downloaded image data can be found here - https://drive.google.com/file/d/1Rx6OwIdXODAoAD-VksVnJuRaCeIA39_l/view?usp=sharing
 
 ## The Challenge
 
