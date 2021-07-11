@@ -118,5 +118,3 @@ Created web app using **Streamlit**
 ## Blog
 For detailed information visit here: https://niksaurabh.medium.com/meme-dank-or-not-cec4895adfb2
 
-
-
